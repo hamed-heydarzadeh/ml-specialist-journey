@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data (large files should not go in GitHub)
+data/raw/
+data/processed/
+data/external/
+
+# Models
+models/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
